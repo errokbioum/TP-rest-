@@ -56,6 +56,9 @@ Voici une description des principaux packages et répertoires :
 
 Cette structure permet une organisation claire et modulaire, facilitant le développement et la maintenance du projet.
 
+![image](https://github.com/user-attachments/assets/ab6212e2-2079-409f-b624-86a9ab13b456)
+
+
 ## Installation et Exécution
 
 ### Cloner le dépôt
